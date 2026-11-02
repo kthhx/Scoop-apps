@@ -29,7 +29,7 @@
     ],
     "checkver": {
         "github": "https://github.com/LI-NA/zed-i18n",
-        "regex": "/v(\\d+\\.\\d+\\.\\d+)-i18n\\.\\d+"
+        "regex": "v(\\d+\\.\\d+\\.\\d+)-i18n\\.\\d+"
     },
     "autoupdate": {
         "architecture": {
