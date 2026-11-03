@@ -1,12 +1,12 @@
 {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "description": "起点阅读自动化任务",
     "homepage": "https://github.com/qdjob/QDjob",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qdjob/QDjob/releases/download/QDjob_v1.4.2/QDjob_windows.zip",
-            "hash": "8da40d35f14832df0fa8e93399936c316e5adb5fd34551f20fbf39efbd5be9a2"
+            "url": "https://github.com/qdjob/QDjob/releases/download/QDjob_v1.4.3/QDjob_windows.zip",
+            "hash": "87ad2af0a0650957fb24964c8ccfd05b66944c09065be8c42bb9aaca98de36d8"
         }
     },
     "persist": [
