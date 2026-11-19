@@ -1,17 +1,17 @@
 {
-    "version": "1.28.1",
+    "version": "1.29.2",
     "description": "Zed-i18n is a tool that extracts UI strings from release versions of the Zed editor and applies translations to create multilingual builds.",
     "homepage": "https://zed.dev/",
     "license": "AGPL-3.0, Apache-2.0, GPL-3.0",
     "notes": "Please manually disable Zed's auto-update feature in the settings to prevent the updater from installing the program in unintended locations.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/LI-NA/zed-i18n/releases/download/v1.28.1-i18n.1/Zed-i18n-windows-x86_64.exe",
-            "hash": "0acdf3d6cde97d294d3ef9d7298da6c01204fb30cdf63337c380a6df65b90496"
+            "url": "https://github.com/LI-NA/zed-i18n/releases/download/v1.29.2-i18n.1/Zed-i18n-windows-x86_64.exe",
+            "hash": "963179120546f106baa1a6860b6409d8a2cafc95a5d1346a5f2657a00b614cb8"
         },
         "arm64": {
-            "url": "https://github.com/LI-NA/zed-i18n/releases/download/v1.28.1-i18n.1/Zed-i18n-windows-aarch64.exe",
-            "hash": "f8887ec5a1e854baa1bab626a7f90fdd697d69646a30318f45afe6f5b68384f0"
+            "url": "https://github.com/LI-NA/zed-i18n/releases/download/v1.29.2-i18n.1/Zed-i18n-windows-aarch64.exe",
+            "hash": "e2763a95f0f282fe924910efa62340054cf9fd46b4615eb72d1bd12c7a9d8287"
         }
     },
     "installer": {
